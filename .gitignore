@@ -1,0 +1,8 @@
+*.nii
+*.nii.gz
+*.dcm
+*.pth
+*.pt
+__pycache__/
+data/
+checkpoints/
